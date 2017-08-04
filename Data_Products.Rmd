@@ -2,11 +2,9 @@
 title: 'Project : Data Products'
 author: "JULIA F"
 date: "4 aout 2017"
-runtime: shiny
 output:
-  ioslides_presentation: 
-    keep_md: yes
-  slidy_presentation: default
+  ioslides_presentation:
+runtime: shiny
 ---
 
 ```{r setup, include=FALSE}
